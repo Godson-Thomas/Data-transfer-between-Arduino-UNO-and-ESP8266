@@ -17,10 +17,10 @@
 3. Go to **Tools** >> **Board** >>**Boards Manager** <br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br>
 4. Type **esp8266** in the search bar and Install it.<br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="500"> <br>
+<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="600"> <br>
 5. Connect Arduino and upload the Code [Arduino.ino](https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Arduino.ino) with your data in the code.<br>
 
-6. Connect ESP8266 and upload the Code [ESP8266.ino](https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/ESP8266.ino) for receving data by selecting **Tools** >> **Boards** >> **NodeMCU**.<br>
+6. Connect ESP8266 and upload the Code [ESP8266.ino](https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/ESP8266.ino) for receving data by selecting **Tools** >> **Board** >> **NodeMCU**.<br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br>
 7. ### Note :Refer the ports of Rx/Tx pins and connect **Rx//Tx** of Arduino to **Tx//Rx**  of ESP8266.(Both pins are included here for senting data between the boards)<br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/C.jpg" width="400"> <br>
