@@ -1,4 +1,4 @@
-### This section deals with sending data from Arduino UNO to ESP8266.
+### This section deals with sending data from Arduino UNO to ESP8266
 # Components Required :
 ## Arduino UNO 
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/A.jpeg" width="200">  <br>
